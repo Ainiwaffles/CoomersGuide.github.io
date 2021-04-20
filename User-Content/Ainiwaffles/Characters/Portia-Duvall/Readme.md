@@ -1,10 +1,13 @@
-<h1 align="center">Portia Duvall</h1>
+<p align="center">
+  <img src="https://files.catbox.moe/vv4540.png">
+</p>
 
-[Card #1](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall.png) | Description
+<h1 align="center">Portia Duvall<br/>https://play.aidungeon.io/main/scenarioView?publicId=1d4fca20-81ee-11eb-9349-c1cf1d07dca9<br/>https://prompts.aidg.club/960</h1>
+
+|Character Cards | Description|
 :--: | --
-![Portia Duvall: Card #1](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall.png) | text description text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext description
-[Card #2](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall-shiny.gif)<br/>![Portia Duvall: Card #2](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall-shiny.gif) | 
- | <https://prompts.aidg.club/960>
+![Portia Duvall: Card #1](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall.png) | Tags: `naive`, `modest`, `shy`, `stubborn`, `western`, `wild west`<br/> TEXT DESCRIPTION TEXT DESCRIPTIONTEXT DE TEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DETEXT DESCRIPTION TEXT DESCRIPTIONTEXT DE
+![Portia Duvall: Card #2](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall-shiny.gif) | 
 
 <details>
   <summary>Based64 Character Code:</summary>
