@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Portia Duvall</h1>
-<details><summary>Links:</summary>
+<details><summary>Prompt links:</summary>
   
 Club: <https://prompts.aidg.club/960> <br/>
 AI Dungeon (Broken until Explore fix): <https://play.aidungeon.io/main/scenarioView?publicId=1d4fca20-81ee-11eb-9349-c1cf1d07dca9>
