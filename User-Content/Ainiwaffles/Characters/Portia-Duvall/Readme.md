@@ -1,6 +1,10 @@
 <h1 align="center">Portia Duvall</h1>
 
-<https://prompts.aidg.club/960>
+[Card #1](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall.png) | Description
+:--: | --
+![Portia Duvall: Card #1](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall.png) | text description text descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext descriptiontext description
+[Card #2](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall-shiny.gif)<br/>![Portia Duvall: Card #2](https://raw.githubusercontent.com/Ainiwaffles/CoomersGuide.github.io/main/User-Content/Ainiwaffles/Characters/Portia-Duvall/PortiaDuvall-shiny.gif) | 
+ | <https://prompts.aidg.club/960>
 
 <details>
   <summary>Based64 Character Code:</summary>
